@@ -4,7 +4,9 @@ title: "Ezra Yu"
 author_profile: true
 ---
 
-Epidemiology • Spatial Analysis • Evidence Synthesis
+Epidemiologist and linguist in training  
+
+Focused on environmental health, spatial analysis, and evidence synthesis.  
 
 [Publications](/publications/){: .btn .btn--primary }
 [CV (PDF)](/files/cv.pdf){: .btn }
