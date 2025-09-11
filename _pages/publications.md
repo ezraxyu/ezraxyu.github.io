@@ -9,12 +9,11 @@ author_profile: true
 ##  Journal Articles
 
 1. Yu X, Jarvis I, van den Bosch M, Guhn M, Sbihi H, & Davies H. *Residential Exposure to Noise, Green Space, and Children’s Language Acquisition*. **Environment International**. [https://doi.org/10.1016/j.envint.2025.109524](https://doi.org/10.1016/j.envint.2025.109524)
+2. Yu X, Jarvis I, Davis Z, van den Bosch M, & Davies H. *Reductions in community noise levels in Vancouver, Canada, during pandemic lockdown and association with land cover type*. **Environmental Research**. [https://doi.org/10.1016/j.envres.2023.117064](https://doi.org/10.1016/j.envres.2023.117064)
+3. Dummer T.J.B., Yu X, Cui Y, Nauta L, Saint-Jacques N, Sweeney-Magee M, & Rainham D.G.C. *Traffic-related air pollution and risk of lung, breast and urinary tract cancer in Halifax, Nova Scotia*. **Journal of Occupational and Environmental Medicine**. [https://doi.org/10.1097/JOM.0000000000002867](https://doi.org/10.1097/JOM.0000000000002867)
+4. Keats M.R., Yu X, Sweeney-Magee M, Forbes C.C., Grandy S.A., Sweeney E., & Dummer T.J.B. *Use of wearable activity monitoring technologies to promote physical activity in cancer survivors: Challenges and opportunities for improved cancer care*. **International Journal of Environmental Research and Public Health**. [https://doi.org/10.3390/ijerph20064784](https://doi.org/10.3390/ijerph20064784)
 
-2. Dummer T.J.B., Yu X, Cui Y, Nauta L, Saint-Jacques N, Sweeney-Magee M, & Rainham D.G.C. *Traffic-related air pollution and risk of lung, breast and urinary tract cancer in Halifax, Nova Scotia*. **Journal of Occupational and Environmental Medicine**. [https://doi.org/10.1097/JOM.0000000000002867](https://doi.org/10.1097/JOM.0000000000002867)
 
-3. Keats M.R., Yu X, Sweeney-Magee M, Forbes C.C., Grandy S.A., Sweeney E., & Dummer T.J.B. *Use of wearable activity monitoring technologies to promote physical activity in cancer survivors: Challenges and opportunities for improved cancer care*. **International Journal of Environmental Research and Public Health**. [https://doi.org/10.3390/ijerph20064784](https://doi.org/10.3390/ijerph20064784)
-
-4. Yu X, Jarvis I, Davis Z, van den Bosch M, & Davies H. *Reductions in community noise levels in Vancouver, Canada, during pandemic lockdown and association with land cover type*. **Environmental Research**. [https://doi.org/10.1016/j.envres.2023.117064](https://doi.org/10.1016/j.envres.2023.117064)
 
 ---
 
