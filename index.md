@@ -4,7 +4,7 @@ title: "Ezra Yu"
 author_profile: true
 ---
 
-Epidemiologist and linguist in training  
+Epidemiologist and linguist in training.  
 
 Focused on environmental health, spatial analysis, and evidence synthesis.  
 
