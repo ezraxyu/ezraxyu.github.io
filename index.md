@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 title: "Ezra Yu"
 author_profile: true
 ---
