@@ -12,7 +12,7 @@ Published journal articles
 Published book chapter 
 1.	Kuczynski G., Yu X, Aravindakshan A., Bhatti P., Brook J., Doiron D., Dummer T., Syer J., & White K. (2024). Chapter 6: Cohort Studies and Context: Infrastructure to Support Cancer Prevention. In T. Dummer (Ed.), Understanding Cancer Prevention through Geospatial Science: Putting Cancer in its Place (Global Perspectives on Health Geography, Springer). doi: 10.1007/978-3-031-66413-7_5
 
-# TECHNICAL & ANALYTICAL SKILLS
+# Technical & Analytical skills
 ## Technical skills
 **Statistical programming: R, SAS, Python**
 **GIS: ArcMap (spatial analysis, mapping)**
