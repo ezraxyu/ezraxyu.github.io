@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Ezra Yu"
+title: "Biography"
 author_profile: true
 ---
 
