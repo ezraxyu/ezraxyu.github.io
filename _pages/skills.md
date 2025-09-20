@@ -8,15 +8,15 @@ author_profile: true
 ## Technical
 - Statistical programming: R, SAS, Python
 - GIS: ArcMap (spatial analysis, mapping)
-- Evidence synthesis: Covidence; literature searches (PubMed, Embase, CINAHL)
+- Evidence synthesis: Covidence; literature searches (PubMed, Embase, CINAHL, etc)
 
 ## Analytical Methods
-- Study designs, causal inference, spatial data analysis
-- Multivariable regression, propensity score methods, time-series analyses
+- Study designs, causal inference
+- Multivariable regression, geospatial analysis, time-series analysis
 
 ## Project & Communication
-- Cross-functional academic collaboration
-- Strong research project coordination
+- Leadership in cross-functional academic collaboration 
+- Strong organization skills
 
 ## Language
 - Fluent in reading, writing, and speaking Mandarin
