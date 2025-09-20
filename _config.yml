@@ -11,7 +11,7 @@ locale                   : "en-CA"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Ezra Yu"
 title_separator          : "-"
-name                     : &name "Ezra"
+name                     : &name "Ezra Yu"
 description              : &description "Ezra Yu"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://ezraxyu.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "ezraxyu/ezraxyu.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Ezra"
+  name             : "Ezra Yu"
   pronouns         : "He/him"
   bio              : "Cancer Prevention | Environmental Health "
   location         : "Vancouver, Canada"
