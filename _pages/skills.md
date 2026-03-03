@@ -23,3 +23,6 @@ author_profile: true
 
 ## Language
 - Fluent in reading, writing, and speaking Mandarin
+
+
+CV upon request.
