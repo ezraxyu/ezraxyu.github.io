@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Research background"
+title: "Biography"
 author_profile: true
 ---
 
