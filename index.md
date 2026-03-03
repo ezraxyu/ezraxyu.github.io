@@ -6,7 +6,7 @@ author_profile: true
 
 **Areas of Interest**
 
-Environmental exposome, cancer epidemiology, and spatial analysis
+Environmental exposome, cancer epidemiology, and spatiotemporal analysis
 
 **Research Overview**
 
