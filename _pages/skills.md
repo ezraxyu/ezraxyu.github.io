@@ -12,9 +12,9 @@ author_profile: true
 
 ## Analytical Methods
 - Causal inference and observational study design
-- Generalized linear and mixed-effects models (GEE, hierarchical)
+- Generalized linear and mixed-effects models 
 - Bayesian spatial modeling
-- Nonlinear modeling (restricted cubic splines)
+- Nonlinear modeling
 - Geospatial and time-series analysis
 - Multi-exposure and mixture modeling
 
