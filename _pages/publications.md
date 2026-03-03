@@ -4,8 +4,6 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-
-
 ##  Journal Articles
 
 1. Yu X, Jarvis I, van den Bosch M, Guhn M, Sbihi H, & Davies H. *Residential Exposure to Noise, Green Space, and Children’s Language Acquisition*. **Environment International**. [https://doi.org/10.1016/j.envint.2025.109524](https://doi.org/10.1016/j.envint.2025.109524)
