@@ -11,12 +11,17 @@ author_profile: true
 - Evidence synthesis: Covidence; literature searches (PubMed, Embase, CINAHL, etc)
 
 ## Analytical Methods
-- Study designs, causal inference
-- Multivariable regression, geospatial analysis, time-series analysis
+- Causal inference and observational study design
+- Generalized linear and mixed-effects models (GEE, hierarchical)
+- Bayesian spatial modeling
+- Nonlinear modeling (restricted cubic splines)
+- Geospatial and time-series analysis
+- Multi-exposure and mixture modeling
 
 ## Project & Communication
-- Leadership in cross-functional academic collaboration 
-- Strong organization skills
+- Manuscript development
+- Leadership in cross-disciplinary research collaboration
+- reviewers for conference and scientific journals
 
 ## Language
 - Fluent in reading, writing, and speaking Mandarin
