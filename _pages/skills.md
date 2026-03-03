@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Skills"
+title: ""
 permalink: /skills/
 author_profile: true
 ---
