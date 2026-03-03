@@ -12,15 +12,14 @@ author_profile: true
 
 ## Analytical Methods
 - Causal inference and observational study design
-- Generalized linear, mixed-effects, and nonlinear modelling 
-- Bayesian spatial modeling
-- Geospatial and time-series analysis
+- Generalized linear, mixed-effects, and nonlinear modelling
+- Bayesian spatial and spatiotemporal modeling
 - Multi-exposure and mixture modeling
 
 ## Project & Communication
-- Manuscript development
 - Leadership in cross-disciplinary research collaboration
-- reviewers for conference and scientific journals
+- Scientific manuscript development
+- Peer reviewer for scientific journals and conferences
 
 ## Language
 - Fluent in reading, writing, and speaking Mandarin
