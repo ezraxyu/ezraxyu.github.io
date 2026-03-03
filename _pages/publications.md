@@ -10,11 +10,7 @@ author_profile: true
 2. Yu X, Jarvis I, Davis Z, van den Bosch M, & Davies H. *Reductions in community noise levels in Vancouver, Canada, during pandemic lockdown and association with land cover type*. **Environmental Research**. [https://doi.org/10.1016/j.envres.2023.117064](https://doi.org/10.1016/j.envres.2023.117064)
 3. Dummer T.J.B., Yu X, Cui Y, Nauta L, Saint-Jacques N, Sweeney-Magee M, & Rainham D.G.C. *Traffic-related air pollution and risk of lung, breast and urinary tract cancer in Halifax, Nova Scotia*. **Journal of Occupational and Environmental Medicine**. [https://doi.org/10.1097/JOM.0000000000002867](https://doi.org/10.1097/JOM.0000000000002867)
 4. Keats M.R., Yu X, Sweeney-Magee M, Forbes C.C., Grandy S.A., Sweeney E., & Dummer T.J.B. *Use of wearable activity monitoring technologies to promote physical activity in cancer survivors: Challenges and opportunities for improved cancer care*. **International Journal of Environmental Research and Public Health**. [https://doi.org/10.3390/ijerph20064784](https://doi.org/10.3390/ijerph20064784)
-
-
-
 ---
-
 ##  Book Chapter
 
 1. Kuczynski G., Yu X, Aravindakshan A., Bhatti P., Brook J., Doiron D., Dummer T., Syer J., & White K. (2024). *Chapter 6: Cohort Studies and Context: Infrastructure to Support Cancer Prevention*. In T. Dummer (Ed.), **Understanding Cancer Prevention through Geospatial Science: Putting Cancer in its Place**. Springer. [https://doi.org/10.1007/978-3-031-66413-7_5](https://doi.org/10.1007/978-3-031-66413-7_5)
