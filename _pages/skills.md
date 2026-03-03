@@ -1,11 +1,8 @@
 ---
 layout: single
-title: ""
+title: "Skills"
 permalink: /skills/
 author_profile: true
-header:
-  overlay_color: ""
-  show_overlay_excerpt: false
 ---
 
 ## Technical
