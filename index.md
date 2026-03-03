@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Biography"
+title: ""
 author_profile: true
 ---
 
@@ -10,7 +10,7 @@ Environmental exposome, cancer epidemiology, and spatial analysis
 
 **Research Overview**
 
-Ezra Yu is a PhD student at the University of British Columbia specializing in environmental and cancer epidemiology. His research integrates Bayesian spatial and spatiotemporal modeling with causal inference methods to investigate the health effects of complex environmental exposures.
+Ezra is a PhD student at the University of British Columbia specializing in environmental and cancer epidemiology. His research integrates Bayesian spatial and spatiotemporal modeling with causal inference methods to investigate the health effects of complex environmental exposures.
 
 His current work focuses on quantifying how components of the environmental exposome, including air pollution, radon, and asbestos, influence lung cancer risk among non-smokers. By integrating environmental and health datasets, he examines spatial and temporal patterns of exposure while addressing methodological challenges in causal inference and exposure assessment.
 
