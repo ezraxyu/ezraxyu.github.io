@@ -13,8 +13,8 @@ author_profile: true
 ## Analytical Methods
 - Causal inference and observational study design
 - Generalized linear, mixed-effects, and nonlinear modelling
-- Bayesian spatial and spatiotemporal modeling
-- Multi-exposure and mixture modeling
+- Bayesian spatiotemporal modelling
+- Multi-exposure and mixture modelling
 
 ## Project & Communication
 - Leadership in cross-disciplinary research collaboration
